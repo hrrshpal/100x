@@ -1,0 +1,33 @@
+.new{
+    border-bottom: 1px solid grey;
+    padding:30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.btns{
+    padding: 20px;
+    cursor: pointer;
+}
+
+#text>center>h1{
+    font-size: 50px;
+    color: rgb(41, 38, 38);
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#text>center>h3{
+    font-size: 20px;
+    color: rgb(41, 38, 38);
+    font-weight: normal;
+    font-family:'Times New Roman', Times, serif;
+}
+
+button{
+    padding: 10px;
+    background-color: #387ed1;
+    color:white;
+    border: none;
+    border-radius: 3px;
+}
